@@ -1,10 +1,10 @@
 {
   "name": "@open-rpc/playground",
   "version": "0.0.0-development",
-  "homepage": "https://playground.open-rpc.org/",
+  "homepage": "https://as2network.github.io/playground/",
   "repository": {
     "type": "git",
-    "url": "https://github.com/open-rpc/playground.git"
+    "url": "https://github.com/as2network/playground.git"
   },
   "bin": {
     "open-rpc-playground": "./bin/cli.js"
@@ -67,6 +67,7 @@
     "@types/react": "^16.9.2",
     "@types/react-dom": "^16.8.4",
     "css-mediaquery": "^0.1.2",
+    "gh-pages": "^3.1.0",
     "monaco-editor-webpack-plugin": "^1.7.0",
     "react-scripts": "^3.4.3",
     "tslint": "^5.18.0",
